@@ -1,0 +1,5 @@
+Como executar:
+
+1- Abrir um cmd na pasta em que os arquivos estão salvos
+2- Executar o comando "npm run dev"
+3- Abrir o site local
